@@ -1,0 +1,3 @@
+umut can yıldız : 100,100,100
+ali yıldız : 80,50,90
+berkay yıldız : 85,89,98
